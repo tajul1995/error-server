@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "services": "Web Development",
+      "servicesResponsibility": "Mobile App Development",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNlcnZpY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 4.5,
+      "views": 1000
+    },
+    {
+      "id": 2,
+      "services": "Mobile App Development",
+      "servicesResponsibility": "Designing and coding mobile applications",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNlcnZpY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 4.2,
+      "views": 800
+    },
+    {
+      "id": 3,
+      "services": "Graphic Design",
+      "servicesResponsibility": "Creating visual concepts and designs",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNlcnZpY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 4.8,
+      "views": 1200
+    },
+    {
+      "id": 4,
+      "services": "Content Writing",
+      "servicesResponsibility": "Writing high-quality articles and content",
+      "image": "https://plus.unsplash.com/premium_photo-1665660297260-894791cc0f57?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHNlcnZpY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 3.9,
+      "views": 600
+    },
+    {
+      "id": 5,
+      "services": "SEO Services",
+      "servicesResponsibility": "Optimizing websites and content for search engines",
+      "image": "https://example.com/seoservices.jpg",
+      "rating": 4.1,
+      "views": 900
+    },
+    {
+      "id": 6,
+      "services": "Social Media Marketing",
+      "servicesResponsibility": "Creating and managing social media campaigns",
+      "image": "https://plus.unsplash.com/premium_photo-1665660297053-794e2ae1a1ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fHNlcnZpY2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "rating": 3.5,
+      "views": 500
+    }
+  ]
+  
